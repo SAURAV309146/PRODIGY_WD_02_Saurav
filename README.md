@@ -56,7 +56,7 @@ Add a screenshot or GIF of your application here.
 
 ## 👨‍💻 Author
 
-**Saurabh Kumar**
+**Saurav Kumar**
 
 Passionate Computer Science student focused on building practical projects, strengthening software engineering fundamentals, and continuously learning through hands-on development.
 
